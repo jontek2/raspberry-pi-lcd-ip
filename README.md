@@ -1,6 +1,8 @@
 # What
 
-A simple python script that displays the ip of an Raspberry Pi on a Adafruit LCD.
+A simple python script that displays the ip of an Raspberry Pi on a Adafruit LCD. The script will light up the display for 10 sec and then turn the light off, but still display the IP:s.
+
+![Image of output](http://www.jonathanhellman.se/wp-content/uploads/2017/08/lcd.png)
 
 # Librarys
 
